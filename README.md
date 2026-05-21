@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas — Padrão MVC + FrontController
 
-Projeto desenvolvido para a disciplina **Projeto Integrador I**  
+Projeto desenvolvido para a disciplina *Desenvolvimento Web 2*  
 Campus: Limoeiro do Norte — IFCE  
 Aluno: Daniel da Silva Xavier  
 
